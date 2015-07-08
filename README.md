@@ -1,2 +1,2 @@
 # auto1
-salam
+try 1
